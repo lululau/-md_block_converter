@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'md_block_converter'
+
+MdBlockConverter::CLI.start!
